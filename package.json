@@ -1,0 +1,29 @@
+{
+  "name": "garbage-detector",
+  "version": "1.1.0",
+  "description": "Does the sentence make sense? Or maybe it's just a kind of garbage string? The analyzer tries to answer this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hooke72/garbage-detector.git"
+  },
+  "keywords": [
+    "text",
+    "sentense",
+    "garbage",
+    "sense",
+    "string"
+  ],
+  "author": "Andrii Hooke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hooke72/garbage-detector/issues"
+  },
+  "homepage": "https://github.com/hooke72/garbage-detector#readme",
+  "dependencies": {
+    "natural": "^5.1.11"
+  }
+}
